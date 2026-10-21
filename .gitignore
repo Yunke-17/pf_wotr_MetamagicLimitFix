@@ -1,3 +1,6 @@
 bin/
 obj/
 *.user
+
+# 本地留档说明（不随仓库/Release 发布）
+README.md
