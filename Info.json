@@ -1,0 +1,10 @@
+{
+  "Id": "MetamagicFix",
+  "DisplayName": "Metamagic Limit Fix",
+  "Author": "ToisnaLey",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.32.4",
+  "Requirements": [],
+  "AssemblyName": "MetamagicFix.dll",
+  "EntryMethod": "MetamagicFix.Main.Load"
+}
